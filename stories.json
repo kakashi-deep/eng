@@ -377,6 +377,637 @@
           "correctOptionIndex": 2
         }
       ]
+    },
+    {
+      "id": 7,
+      "title": "The Broken Bicycle",
+      "level": "B1",
+      "content": "Tom loved riding his bicycle to school every morning. It was fast, fun, and good exercise. One Tuesday, as he was pedaling downhill, he heard a loud snap. The chain had broken, and he had to push the bike all the way to school. He arrived late and sweaty. After classes, Tom visited a small repair shop near his house. The mechanic, an older man named Joe, examined the bike carefully. 'It's an old chain,' he said. 'I can fix it, but it might be better to replace it completely.' Tom didn't have much money, but Joe noticed his disappointment. 'Tell you what,' Joe said with a smile. 'I'll fix it today for half price if you help me organize my workshop tomorrow after school.' Tom agreed happily. The next day, he spent an hour sorting tools and cleaning shelves. Joe not only fixed the bike but also taught Tom how to maintain it. From then on, Tom checked his chain regularly and even learned to fix small problems himself.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What happened to Tom's bicycle?",
+          "options": [
+            "The tire went flat",
+            "The chain broke",
+            "The brakes failed",
+            "The seat fell off"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "Why did Tom arrive late to school?",
+          "options": [
+            "He woke up late",
+            "He had to push his broken bike",
+            "He missed the bus",
+            "He got lost"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "How did Joe help Tom with payment?",
+          "options": [
+            "He fixed it for free",
+            "He gave a discount in exchange for help",
+            "He lent Tom the money",
+            "He asked Tom's parents to pay later"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "The word 'mechanic' in the text refers to:",
+          "options": [
+            "A car driver",
+            "A person who repairs machines",
+            "A bicycle seller",
+            "A school teacher"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What did Tom learn from this experience?",
+          "options": [
+            "To buy a new bicycle",
+            "To avoid riding downhill",
+            "To maintain his bicycle regularly",
+            "To take the bus to school"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Library Volunteer",
+      "level": "B1",
+      "level": "B1",
+      "content": "Maria needed to complete 20 hours of community service for her school program. She decided to volunteer at the local library. At first, she thought it would be boring — just putting books back on shelves. But on her first day, Mrs. Chen, the head librarian, showed her how the library worked. Maria learned to sort returned books, help children find stories, and even assist elderly visitors with computers. One afternoon, a little girl named Lily couldn't find a book about dolphins. Maria spent twenty minutes searching the catalog and shelves until she found it. Lily's face lit up with joy. That moment made Maria realize how meaningful her work was. By the end of the month, Maria had completed her hours, but she decided to keep volunteering on weekends. She had discovered a love for books and helping others. The library became her second home, and Mrs. Chen became a mentor who encouraged her to consider a career in education.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why did Maria start volunteering at the library?",
+          "options": [
+            "She loved reading",
+            "She needed community service hours for school",
+            "Her friend worked there",
+            "She wanted a paid job"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What was Maria's first impression of library work?",
+          "options": [
+            "Exciting",
+            "Challenging",
+            "Boring",
+            "Difficult"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "What did Maria help Lily find?",
+          "options": [
+            "A book about cats",
+            "A book about dolphins",
+            "A computer game",
+            "A coloring book"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "The word 'mentor' in the last sentence means:",
+          "options": [
+            "A strict boss",
+            "A teacher or guide",
+            "A customer",
+            "A student"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What did Maria discover through volunteering?",
+          "options": [
+            "She hated working with children",
+            "Libraries are outdated",
+            "She enjoyed helping others and loved books",
+            "Community service is a waste of time"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Power Outage",
+      "level": "B1",
+      "content": "It was a stormy Thursday evening when the lights suddenly went out in James's apartment building. His computer screen went black just as he was saving an important school project. 'No!' he exclaimed, hoping the document hadn't been lost. Outside, rain poured down and thunder rumbled loudly. James felt his way to the kitchen and found candles and matches in a drawer. As he lit them, he noticed his neighbor, an elderly woman named Mrs. Garcia, standing nervously in the hallway. Her apartment was completely dark. James invited her to wait in his apartment where it was safer and warmer. They sat together by candlelight, sharing stories about their lives. James learned that Mrs. Garcia had been a teacher for forty years and had traveled to many countries. After two hours, the power returned. James quickly checked his computer — his project had saved just in time. He felt grateful not only for the saved work but also for the unexpected friendship that began that evening.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What caused the power outage?",
+          "options": [
+            "A technical problem",
+            "A storm",
+            "An accident",
+            "Maintenance work"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What was James worried about losing?",
+          "options": [
+            "His television",
+            "His school project",
+            "His phone connection",
+            "His dinner"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "Why was Mrs. Garcia standing in the hallway?",
+          "options": [
+            "She was looking for her cat",
+            "She was nervous because her apartment was dark",
+            "She wanted to complain about the outage",
+            "She was going to visit a friend"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "The phrase 'rumbled loudly' describes the sound of:",
+          "options": [
+            "Rain",
+            "Wind",
+            "Thunder",
+            "Traffic"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "What positive outcome came from the power outage?",
+          "options": [
+            "James learned to use candles",
+            "James made a new friend",
+            "James finished his project faster",
+            "James moved to a new apartment"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Language Exchange",
+      "level": "B1",
+      "content": "Sophie wanted to improve her Spanish before her trip to Spain. She signed up for a language exchange program at the community center. There, she met Carlos, a Spanish speaker who wanted to practice English. They agreed to meet every Tuesday for one hour: half the time speaking English, half speaking Spanish. At first, both were shy and made many mistakes. Sophie struggled with verb conjugations, and Carlos confused 'make' and 'do'. But they laughed at their errors and kept trying. After a month, Sophie noticed she could order food in Spanish without translating in her head first. Carlos, meanwhile, became more confident speaking English at his job. On Sophie's last meeting before her trip, Carlos gave her a small notebook with useful phrases for travelers. 'You'll do great,' he said with a smile. Sophie realized that language learning wasn't just about grammar — it was about connection, patience, and friendship.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why did Sophie want to learn Spanish?",
+          "options": [
+            "For her job",
+            "For a trip to Spain",
+            "For school",
+            "To talk to her neighbor"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "How did Sophie and Carlos structure their meetings?",
+          "options": [
+            "Only speaking Spanish",
+            "Only speaking English",
+            "Half English, half Spanish",
+            "Using a translator app"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "What gift did Carlos give Sophie before her trip?",
+          "options": [
+            "A Spanish dictionary",
+            "A map of Spain",
+            "A notebook with useful phrases",
+            "A phone card"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "The word 'conjugations' in the text relates to:",
+          "options": [
+            "Pronunciation",
+            "Verb forms",
+            "Vocabulary",
+            "Spelling"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What did Sophie learn about language learning?",
+          "options": [
+            "Grammar is the most important part",
+            "It requires expensive courses",
+            "It's about connection and friendship, not just grammar",
+            "It's impossible without living in the country"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The Neighborhood Garden",
+      "level": "B1",
+      "content": "The empty lot on Maple Street had been unused for years — full of weeds and trash. One spring morning, a woman named Aisha decided to change that. She posted flyers inviting neighbors to help create a community garden. Only three people showed up on the first Saturday, but they worked hard clearing the space. Aisha brought seeds for tomatoes, lettuce, and flowers. Week by week, more neighbors joined. Mr. Patel, who had grown vegetables in India, taught everyone how to space the plants properly. Teenagers built a wooden fence, and children painted colorful signs. By summer, the garden was thriving with vegetables and bright flowers. Every Thursday, neighbors gathered to harvest food and share a meal. The garden became more than just plants — it became a place where people of different ages and backgrounds connected. Even the local newspaper wrote an article about how one person's idea transformed not just a lot, but an entire community.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was the empty lot like before the garden?",
+          "options": [
+            "Full of flowers",
+            "Covered in grass",
+            "Full of weeds and trash",
+            "Already a small park"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "How did Aisha invite people to help?",
+          "options": [
+            "By sending emails",
+            "By posting flyers",
+            "By making phone calls",
+            "By asking friends"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What special knowledge did Mr. Patel contribute?",
+          "options": [
+            "How to build fences",
+            "How to paint signs",
+            "How to space plants properly",
+            "How to cook vegetables"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "The word 'thriving' in the text means:",
+          "options": [
+            "Dying",
+            "Growing well and healthy",
+            "Small",
+            "Expensive"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What was the main impact of the garden on the neighborhood?",
+          "options": [
+            "It increased property values",
+            "It provided free vegetables only",
+            "It connected people from different backgrounds",
+            "It attracted tourists"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The Wrong Train",
+      "level": "B1",
+      "content": "Emma was traveling alone for the first time. She needed to take the 2:15 train to Manchester to visit her cousin. Nervous but excited, she checked the departure board and hurried to platform 4. The train arrived, and she found a window seat. As the train pulled away from the station, she looked out the window and noticed the city skyline looked unfamiliar. She checked her ticket again — oh no! She had boarded the 2:15 train to Liverpool, not Manchester. Panic set in. She approached the conductor and explained her mistake. 'Don't worry,' he said kindly. 'We stop in Crewe, where you can change to a Manchester-bound train. You'll only be delayed by forty minutes.' Emma felt relieved. During the unexpected journey, she struck up a conversation with an elderly woman sitting next to her who shared fascinating stories about traveling across Europe in the 1960s. When Emma finally arrived in Manchester, she wasn't upset about the delay. She had learned that sometimes mistakes lead to interesting experiences, and that asking for help is nothing to be ashamed of.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Where did Emma intend to go?",
+          "options": [
+            "Liverpool",
+            "London",
+            "Manchester",
+            "Crewe"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "How did Emma realize her mistake?",
+          "options": [
+            "The conductor told her",
+            "She saw an unfamiliar city skyline",
+            "Her cousin called her",
+            "She missed her stop"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "Where could Emma change trains to reach her destination?",
+          "options": [
+            "London",
+            "Birmingham",
+            "Crewe",
+            "Oxford"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "The word 'conductor' in the text refers to:",
+          "options": [
+            "A musician",
+            "A train employee who checks tickets",
+            "A bus driver",
+            "A travel agent"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What did Emma learn from this experience?",
+          "options": [
+            "Always travel with friends",
+            "Mistakes can lead to interesting experiences",
+            "Trains are unreliable",
+            "Never travel alone"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Rainy Picnic",
+      "level": "B1",
+      "content": "The Johnson family had planned a picnic for weeks. They packed sandwiches, fruit salad, lemonade, and a big blanket. The weather forecast promised sunshine, so they left home early Saturday morning. But just as they spread their blanket in the park, dark clouds gathered overhead. Within minutes, rain began to fall heavily. The children groaned in disappointment. Mr. Johnson quickly gathered their things while Mrs. Johnson looked around. She noticed a large gazebo nearby — a roofed structure perfect for shelter. 'Follow me!' she called. They moved everything under the gazebo just as the rain intensified. Though they couldn't sit on the grass, they still enjoyed their food while watching the rain patter on the roof. The children even made a game of counting lightning flashes. What started as a disappointment turned into a memorable adventure. On the drive home, the youngest child said, 'That was the best picnic ever!' Sometimes, flexibility turns problems into special moments.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What did the weather forecast predict?",
+          "options": [
+            "Rain",
+            "Clouds",
+            "Sunshine",
+            "Wind"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "Where did the family take shelter from the rain?",
+          "options": [
+            "In their car",
+            "Under a tree",
+            "In a gazebo",
+            "At a restaurant"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "How did the children react to the rain at first?",
+          "options": [
+            "They were excited",
+            "They were disappointed",
+            "They didn't notice",
+            "They started dancing"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "The word 'gazebo' in the text means:",
+          "options": [
+            "A small shop",
+            "A playground",
+            "A roofed structure in a park",
+            "A parking area"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "What is the main message of the story?",
+          "options": [
+            "Always check the weather forecast",
+            "Picnics should be indoors",
+            "Flexibility can turn problems into special moments",
+            "Children dislike rain"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "The Old Camera",
+      "level": "B1",
+      "content": "While cleaning her grandmother's attic, Chloe found a beautiful wooden box. Inside was an old film camera with a leather strap. It looked heavy and complicated compared to her smartphone. Her grandmother noticed her curiosity and sat down beside her. 'That was my first camera,' she said with a smile. 'I saved for a year to buy it when I was eighteen.' She explained how film worked — only 24 or 36 photos per roll, no preview screen, and waiting days to see the developed pictures. 'We had to be careful with every shot,' Grandma said. 'No deleting mistakes.' Chloe asked if it still worked. Together, they bought a roll of film and loaded it carefully. Chloe took photos of her friends and family, thinking carefully before pressing the shutter button. Two weeks later, when the photos came back from the lab, she was amazed. The images had a warmth and depth her phone photos lacked. She realized that slowing down and being intentional made the experience more meaningful.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Where did Chloe find the camera?",
+          "options": [
+            "In a store",
+            "In her grandmother's attic",
+            "In a museum",
+            "At a garage sale"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What was different about taking photos with the old camera?",
+          "options": [
+            "You could take unlimited photos",
+            "You had to wait to see the developed pictures",
+            "It had a color screen",
+            "It connected to the internet"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "How did Chloe feel about the developed photos?",
+          "options": [
+            "Disappointed",
+            "Bored",
+            "Amazed",
+            "Confused"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "The word 'intentional' in the last sentence means:",
+          "options": [
+            "Accidental",
+            "Careless",
+            "Done with purpose and thought",
+            "Fast and easy"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "What did Chloe learn from using the old camera?",
+          "options": [
+            "Old technology is always better",
+            "Slowing down and being thoughtful makes experiences more meaningful",
+            "Film cameras are too complicated",
+            "Smartphones should be banned"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "The Busker's Melody",
+      "level": "B1",
+      "content": "Every day on his way to work, Leo passed a subway station where a woman played violin. He usually hurried past, headphones on, lost in his own thoughts. One Friday, feeling less rushed, he stopped to listen. The music was beautiful — a mix of classical pieces and modern songs. He noticed a small case open in front of her with a few coins inside. As the song ended, Leo dropped a five-dollar bill into the case. The musician smiled and said, 'Thank you. That helps me pay for dinner tonight.' Her words struck Leo. He realized this wasn't just entertainment; it was her livelihood. The following week, Leo started bringing a thermos of coffee to her on cold mornings. Sometimes they'd chat for a minute — he learned her name was Clara and she was studying music at the local college. Months later, Leo saw a poster: Clara was performing at a small concert hall. He bought a ticket. Sitting in the audience, he felt proud to have supported her talent. He understood that small kindnesses can make a real difference in someone's life.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Where did Clara play her violin?",
+          "options": [
+            "In a park",
+            "In a subway station",
+            "On a street corner",
+            "In a concert hall"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "Why did Leo usually not stop to listen?",
+          "options": [
+            "He disliked violin music",
+            "He was in a hurry with headphones on",
+            "He had no money to give",
+            "He was afraid of strangers"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What did Leo start bringing Clara on cold mornings?",
+          "options": [
+            "Sandwiches",
+            "A blanket",
+            "Coffee",
+            "Gloves"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "The word 'busker' in the title refers to:",
+          "options": [
+            "A subway driver",
+            "A street performer who plays music for money",
+            "A music teacher",
+            "A concert organizer"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What did Leo learn from this experience?",
+          "options": [
+            "Street performers are unprofessional",
+            "Small kindnesses can make a real difference",
+            "Concert tickets are expensive",
+            "Violin is the best instrument"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The Recipe Box",
+      "level": "B1",
+      "content": "After her grandmother passed away, Maya inherited a small wooden box filled with handwritten recipe cards. Some were stained with oil and flour, showing they had been used many times. One card in particular caught her eye — 'Grandma Rosa's Apple Pie,' written in elegant cursive with notes in the margins: 'add extra cinnamon,' 'use Granny Smith apples,' 'let cool completely before serving.' Maya had never baked a pie before, but she decided to try. She bought ingredients, carefully followed the instructions, and spent the whole afternoon in the kitchen. The result wasn't perfect — the crust was a bit too thick — but it smelled wonderful and tasted like childhood memories. She invited her friends over to share it. As they ate, Maya read aloud stories her grandmother had written on the back of some cards: how she learned to bake in Italy, how she made this pie for Maya's mother's birthday every year. The recipe box became more than instructions for food; it became a bridge connecting generations through love and memory.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How did Maya get the recipe box?",
+          "options": [
+            "She bought it at a market",
+            "She inherited it from her grandmother",
+            "She found it in a library",
+            "Her friend gave it to her"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What showed that the recipes had been used often?",
+          "options": [
+            "The elegant handwriting",
+            "The stains of oil and flour",
+            "The colorful cards",
+            "The Italian words"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What was imperfect about Maya's first pie?",
+          "options": [
+            "The filling was too sweet",
+            "The crust was too thick",
+            "It burned in the oven",
+            "It lacked apples"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "The word 'cursive' in the text refers to:",
+          "options": [
+            "A type of apple",
+            "A style of handwriting",
+            "A baking technique",
+            "A type of pie crust"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What did the recipe box represent for Maya?",
+          "options": [
+            "Just old pieces of paper",
+            "A bridge connecting generations through love and memory",
+            "A burden to keep",
+            "A business opportunity"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
     }
   ]
 }
