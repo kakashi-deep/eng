@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "ingilizce": "abandon",
+    "turce": "terk etmek, vazgeçmek",
+    "aciklama": "Birini, bir şeyi veya bir girişimi geride bırakmak, bırakmak.",
+    "kullanim_yeri": "Günlük konuşma, edebi metinler, haberler"
+  },
+  {
+    "id": 2,
+    "ingilizce": "approach",
+    "turce": "yaklaşmak, yaklaşım",
+    "aciklama": "Bir soruna çözüm bulma yöntemi veya bir yere doğru hareket etme.",
+    "kullanim_yeri": "İş hayatı, akademik metinler, günlük konuşma"
+  },
+  {
+    "id": 3,
+    "ingilizce": "assume",
+    "turce": "varsaymak, üstlenmek",
+    "aciklama": "Bir şeyi kanıt olmadan doğru kabul etmek veya sorumluluk almak.",
+    "kullanim_yeri": "Akademik metinler, iş yazışmaları, günlük konuşma"
+  },
+  {
+    "id": 4,
+    "ingilizce": "consequence",
+    "turce": "sonuç",
+    "aciklama": "Bir eylem veya durumun neden olduğu sonuç (genellikle olumsuz).",
+    "kullanim_yeri": "Tartışmalar, akademik yazılar, haberler"
+  },
+  {
+    "id": 5,
+    "ingilizce": "contribute",
+    "turce": "katkıda bulunmak",
+    "aciklama": "Bir şeyin olmasına yardım etmek veya bir şey (para, fikir) vermek.",
+    "kullanim_yeri": "İş hayatı, sosyal sorumluluk projeleri, ekip çalışması"
+  },
+  {
+    "id": 6,
+    "ingilizce": "demonstrate",
+    "turce": "göstermek, kanıtlamak",
+    "aciklama": "Bir şeyin nasıl çalıştığını göstererek anlatmak veya bir duyguyu belli etmek.",
+    "kullanim_yeri": "Eğitim, bilimsel sunumlar, iş dünyası"
+  },
+  {
+    "id": 7,
+    "ingilizce": "establish",
+    "turce": "kurmak, tesis etmek",
+    "aciklama": "Bir şirket, sistem veya düzeni başlatmak veya bir gerçeği kanıtlamak.",
+    "kullanim_yeri": "İş dünyası, hukuk, tarih"
+  },
+  {
+    "id": 8,
+    "ingilizce": "evaluate",
+    "turce": "değerlendirmek",
+    "aciklama": "Bir şeyin değerini, önemini veya kalitesini dikkatlice inceleyerek belirlemek.",
+    "kullanim_yeri": "Akademi, iş hayatı (performans değerlendirme), eğitim"
+  },
+  {
+    "id": 9,
+    "ingilizce": "focus on",
+    "turce": "odaklanmak",
+    "aciklama": "Dikkatini veya enerjisini belirli bir şeye yöneltmek.",
+    "kullanim_yeri": "Günlük konuşma, iş toplantıları, kişisel gelişim"
+  },
+  {
+    "id": 10,
+    "ingilizce": "ignore",
+    "turce": "görmezden gelmek",
+    "aciklama": "Birini veya bir şeyi bilerek fark etmemek veya dikkate almamak.",
+    "kullanim_yeri": "Günlük konuşma, ilişkiler, sosyal medya"
+  },
+  {
+    "id": 11,
+    "ingilizce": "impact",
+    "turce": "etki",
+    "aciklama": "Bir şeyin bir durum veya kişi üzerindeki güçlü etkisi.",
+    "kullanim_yeri": "Çevre bilimleri, ekonomi, sosyoloji"
+  },
+  {
+    "id": 12,
+    "ingilizce": "issue",
+    "turce": "sorun, mesele, konu",
+    "aciklama": "Tartışılan veya üzerinde durulan önemli bir konu veya problem.",
+    "kullanim_yeri": "İş toplantıları, haberler, günlük konuşma"
+  },
+  {
+    "id": 13,
+    "ingilizce": "justify",
+    "turce": "haklı çıkarmak, gerekçelendirmek",
+    "aciklama": "Bir eylem veya inancın neden doğru veya makul olduğunu açıklamak.",
+    "kullanim_yeri": "Akademik makaleler, hukuk, tartışmalar"
+  },
+  {
+    "id": 14,
+    "ingilizce": "maintain",
+    "turce": "sürdürmek, korumak, bakımını yapmak",
+    "aciklama": "Bir şeyi aynı durumda tutmak veya devam ettirmek.",
+    "kullanim_yeri": "Sağlık, ilişkiler, teknik bakım"
+  },
+  {
+    "id": 15,
+    "ingilizce": "obvious",
+    "turce": "açık, apaçık",
+    "aciklama": "Anlaşılması veya görülmesi çok kolay olan.",
+    "kullanim_yeri": "Günlük konuşma, tartışmalar"
+  },
+  {
+    "id": 16,
+    "ingilizce": "permission",
+    "turce": "izin",
+    "aciklama": "Bir şey yapmak için birinden alınan onay.",
+    "kullanim_yeri": "İş hayatı, resmi yazışmalar, aile içi iletişim"
+  },
+  {
+    "id": 17,
+    "ingilizce": "perspective",
+    "turce": "bakış açısı, perspektif",
+    "aciklama": "Bir konuyu ele alma veya görme biçimi.",
+    "kullanim_yeri": "Sanat, tartışmalar, kişisel gelişim"
+  },
+  {
+    "id": 18,
+    "ingilizce": "persuade",
+    "turce": "ikna etmek",
+    "aciklama": "Birini bir şeyin doğru olduğuna veya bir şey yapması gerektiğine inandırmak.",
+    "kullanim_yeri": "Pazarlama, günlük konuşma, siyaset"
+  },
+  {
+    "id": 19,
+    "ingilizce": "predict",
+    "turce": "tahmin etmek",
+    "aciklama": "Gelecekte ne olacağını söylemek.",
+    "kullanim_yeri": "Hava durumu, ekonomi, bilim kurgu"
+  },
+  {
+    "id": 20,
+    "ingilizce": "rely on",
+    "turce": "güvenmek, bel bağlamak",
+    "aciklama": "Birine veya bir şeye ihtiyaç duymak veya onlara güvenmek.",
+    "kullanim_yeri": "İlişkiler, iş hayatı, teknoloji"
+  },
+  {
+    "id": 21,
+    "ingilizce": "significant",
+    "turce": "önemli, kayda değer",
+    "aciklama": "Yeterince büyük veya önemli olan, dikkate değer.",
+    "kullanim_yeri": "Akademik metinler, iş raporları, haberler"
+  },
+  {
+    "id": 22,
+    "ingilizce": "similar",
+    "turce": "benzer",
+    "aciklama": "Hemen hemen aynı olan, andıran.",
+    "kullanim_yeri": "Karşılaştırmalar, günlük konuşma"
+  },
+  {
+    "id": 23,
+    "ingilizce": "source",
+    "turce": "kaynak",
+    "aciklama": "Bir şeyin geldiği yer, kişi veya belge.",
+    "kullanim_yeri": "Haberler, akademik çalışmalar, araştırma"
+  },
+  {
+    "id": 24,
+    "ingilizce": "strategy",
+    "turce": "strateji",
+    "aciklama": "Belirli bir amaca ulaşmak için yapılan detaylı plan.",
+    "kullanim_yeri": "İş dünyası, askeriye, oyunlar, satranç"
+  },
+  {
+    "id": 25,
+    "ingilizce": "tend to",
+    "turce": "eğiliminde olmak, genellikle yapmak",
+    "aciklama": "Belirli bir durumda sıklıkla belirli bir şekilde davranmak.",
+    "kullanim_yeri": "Günlük konuşma, psikoloji, gözlemler"
+  },
+  {
+    "id": 26,
+    "ingilizce": "various",
+    "turce": "çeşitli",
+    "aciklama": "Farklı türde olan, birbirinden farklı birçok.",
+    "kullanim_yeri": "Betimlemeler, listeler, günlük konuşma"
+  },
+  {
+    "id": 27,
+    "ingilizce": "break down",
+    "turce": "bozulmak (makine), çökmek (duygusal)",
+    "aciklama": "Bir makinenin çalışmayı durdurması veya bir kişinin kontrolünü kaybetmesi.",
+    "kullanim_yeri": "Günlük konuşma (araç arızası), psikoloji"
+  },
+  {
+    "id": 28,
+    "ingilizce": "bring up",
+    "turce": "yetiştirmek (çocuk), gündeme getirmek (konu)",
+    "aciklama": "Bir çocuğa bakmak ve onu büyütmek veya bir konuyu konuşmaya açmak.",
+    "kullanim_yeri": "Aile hayatı, iş toplantıları, arkadaş sohbetleri"
+  },
+  {
+    "id": 29,
+    "ingilizce": "carry out",
+    "turce": "gerçekleştirmek, yerine getirmek",
+    "aciklama": "Bir görevi, emri veya araştırmayı yapmak, uygulamak.",
+    "kullanim_yeri": "İş hayatı, bilimsel araştırmalar, askeriye"
+  },
+  {
+    "id": 30,
+    "ingilizce": "come up with",
+    "turce": "bulmak (fikir, çözüm)",
+    "aciklama": "Bir plan, fikir veya çözüm üretmek.",
+    "kullanim_yeri": "Reklamcılık, problem çözme, yaratıcı işler"
+  },
+  {
+    "id": 31,
+    "ingilizce": "cut down on",
+    "turce": "azaltmak",
+    "aciklama": "Bir şeyin miktarını, sıklığını veya kullanımını azaltmak.",
+    "kullanim_yeri": "Sağlıklı yaşam (sigara, şeker), tasarruf"
+  },
+  {
+    "id": 32,
+    "ingilizce": "figure out",
+    "turce": "anlamak, çözmek",
+    "aciklama": "Bir sorunu çözmek veya birini/bir şeyi anlamak için düşünmek.",
+    "kullanim_yeri": "Günlük problem çözme, teknoloji, ilişkiler"
+  },
+  {
+    "id": 33,
+    "ingilizce": "get along with",
+    "turce": "iyi geçinmek",
+    "aciklama": "Biriyle dostça ve uyumlu bir ilişkiye sahip olmak.",
+    "kullanim_yeri": "Sosyal ilişkiler, iş arkadaşlığı, komşuluk"
+  },
+  {
+    "id": 34,
+    "ingilizce": "give up",
+    "turce": "vazgeçmek, bırakmak",
+    "aciklama": "Bir şeyi yapmayı bırakmak veya bir alışkanlıktan vazgeçmek.",
+    "kullanim_yeri": "Kişisel hedefler, bağımlılıklar, spor"
+  },
+  {
+    "id": 35,
+    "ingilizce": "look forward to",
+    "turce": "dört gözle beklemek",
+    "aciklama": "Bir şeyin olmasını sabırsızlıkla ve heyecanla beklemek.",
+    "kullanim_yeri": "Sosyal aktiviteler, iş görüşmeleri, tatil planları"
+  },
+  {
+    "id": 36,
+    "ingilizce": "look into",
+    "turce": "araştırmak, incelemek",
+    "aciklama": "Bir konu hakkında bilgi toplamak veya bir durumu incelemek.",
+    "kullanim_yeri": "Polis soruşturmaları, müşteri şikayetleri, bilimsel çalışmalar"
+  },
+  {
+    "id": 37,
+    "ingilizce": "put off",
+    "turce": "ertelemek",
+    "aciklama": "Bir işi veya etkinliği daha sonraki bir zamana bırakmak.",
+    "kullanim_yeri": "İş hayatı, ödevler, randevular"
+  },
+  {
+    "id": 38,
+    "ingilizce": "put up with",
+    "turce": "katlanmak, tahammül etmek",
+    "aciklama": "Hoşlanılmayan veya rahatsız edici bir şeye sabır göstermek.",
+    "kullanim_yeri": "Gürültü şikayetleri, zor durumlar, ilişkiler"
+  },
+  {
+    "id": 39,
+    "ingilizce": "run out of",
+    "turce": "tükenmek, bitmek",
+    "aciklama": "Bir şeyin stoğunun tamamen bitmesi, kalmaması.",
+    "kullanim_yeri": "Günlük hayat (ekmek, benzin), alışveriş"
+  },
+  {
+    "id": 40,
+    "ingilizce": "set up",
+    "turce": "kurmak (şirket, sistem, düzenek)",
+    "aciklama": "Yeni bir iş, organizasyon veya ekipmanı hazırlamak.",
+    "kullanim_yeri": "Girişimcilik, teknoloji, organizasyon"
+  },
+  {
+    "id": 41,
+    "ingilizce": "take care of",
+    "turce": "ilgilenmek, bakmak, halletmek",
+    "aciklama": "Birine veya bir şeye bakmak veya bir işi halletmek.",
+    "kullanim_yeri": "Aile, evcil hayvanlar, müşteri hizmetleri"
+  },
+  {
+    "id": 42,
+    "ingilizce": "take over",
+    "turce": "devralmak (sorumluluk, iş)",
+    "aciklama": "Bir görevi, liderliği veya bir şirketi başkasından almak.",
+    "kullanim_yeri": "İş hayatı (devir teslim), siyaset"
+  },
+  {
+    "id": 43,
+    "ingilizce": "turn down",
+    "turce": "reddetmek (teklif); sesi kısmak",
+    "aciklama": "Bir teklifi veya daveti kabul etmemek veya bir cihazın ses seviyesini azaltmak.",
+    "kullanim_yeri": "İş görüşmeleri, sosyal davetler, günlük konuşma"
+  },
+  {
+    "id": 44,
+    "ingilizce": "work out",
+    "turce": "çözmek (problem), spor yapmak, iyi sonuçlanmak",
+    "aciklama": "Bir soruna çözüm bulmak, egzersiz yapmak veya bir durumun başarılı olması.",
+    "kullanim_yeri": "Spor salonu, ilişkiler, matematik problemleri"
+  },
+  {
+    "id": 45,
+    "ingilizce": "In my opinion",
+    "turce": "Bence, benim fikrime göre",
+    "aciklama": "Kişisel bir görüşü ifade etmek için kullanılan kalıp.",
+    "kullanim_yeri": "Tartışmalar, yorumlar, kişisel düşünceler"
+  },
+  {
+    "id": 46,
+    "ingilizce": "As a result",
+    "turce": "Sonuç olarak",
+    "aciklama": "Bir şeyin sonucunda meydana gelen durumu belirtmek için kullanılır.",
+    "kullanim_yeri": "Akademik yazılar, raporlar, neden-sonuç cümleleri"
+  },
+  {
+    "id": 47,
+    "ingilizce": "In addition",
+    "turce": "Ek olarak, ayrıca",
+    "aciklama": "Bir konuya başka bir bilgi veya örnek eklerken kullanılır.",
+    "kullanim_yeri": "Makaleler, listeler, konuşmalar"
+  },
+  {
+    "id": 48,
+    "ingilizce": "For instance / For example",
+    "turce": "Örneğin, mesela",
+    "aciklama": "Söylenen bir şeyi açıklamak için örnek vermek amacıyla kullanılır.",
+    "kullanim_yeri": "Her türlü açıklama, sunumlar, eğitim"
+  },
+  {
+    "id": 49,
+    "ingilizce": "On the other hand",
+    "turce": "Öte yandan, diğer taraftan",
+    "aciklama": "Bir durumun farklı veya zıt yönünü belirtmek için kullanılır.",
+    "kullanim_yeri": "Karşılaştırmalar, tartışmalar, denemeler"
+  },
+  {
+    "id": 50,
+    "ingilizce": "In conclusion",
+    "turce": "Sonuç olarak",
+    "aciklama": "Bir konuşmayı, sunumu veya yazıyı bitirirken ana noktaları özetlemek için kullanılır.",
+    "kullanim_yeri": "Akademik makaleler, sunumlar, konuşmalar"
+  },
+  {
+    "id": 51,
+    "ingilizce": "adapt",
+    "turce": "uyum sağlamak, uyarlamak",
+    "aciklama": "Yeni bir duruma veya ortama alışmak veya bir şeyi yeni kullanıma hazırlamak.",
+    "kullanim_yeri": "Seyahat, iş değişikliği, teknoloji"
+  },
+  {
+    "id": 52,
+    "ingilizce": "appreciate",
+    "turce": "takdir etmek, minnettar olmak, değerini bilmek",
+    "aciklama": "Bir şeyin iyi veya değerli olduğunu kabul etmek ve bundan hoşlanmak.",
+    "kullanim_yeri": "Teşekkür yazıları, sanat, iş hayatı"
+  },
+  {
+    "id": 53,
+    "ingilizce": "available",
+    "turce": "mevcut, ulaşılabilir, müsait",
+    "aciklama": "Kullanıma hazır olan, bulunabilen veya bir kişinin görüşmeye vakti olması.",
+    "kullanim_yeri": "Randevular, stok durumu, iş ilanları"
+  },
+  {
+    "id": 54,
+    "ingilizce": "benefit",
+    "turce": "fayda, yarar; faydalanmak",
+    "aciklama": "Bir şeyin sağladığı iyi veya olumlu sonuç.",
+    "kullanim_yeri": "İş dünyası, sağlıklı yaşam, sigorta"
+  },
+  {
+    "id": 55,
+    "ingilizce": "challenge",
+    "turce": "meydan okuma, zorluk; zorlamak",
+    "aciklama": "Zorlayıcı bir iş veya durum, ya da birini yeteneklerini test etmeye davet etmek.",
+    "kullanim_yeri": "Spor, iş hayatı, kişisel gelişim"
+  },
+  {
+    "id": 56,
+    "ingilizce": "circumstance",
+    "turce": "durum, koşul, şart",
+    "aciklama": "Bir eylemi veya olayı etkileyen koşullar veya gerçekler.",
+    "kullanim_yeri": "Hukuk, resmi yazışmalar, hikayeler"
+  },
+  {
+    "id": 57,
+    "ingilizce": "commitment",
+    "turce": "bağlılık, söz verme, taahhüt",
+    "aciklama": "Birine veya bir şeye karşı duyulan sorumluluk ve bağlılık hissi.",
+    "kullanim_yeri": "İlişkiler, iş sözleşmeleri, gönüllülük"
+  },
+  {
+    "id": 58,
+    "ingilizce": "compromise",
+    "turce": "uzlaşma, ödün verme",
+    "aciklama": "Anlaşmazlıkta her iki tarafın da kısmen fedakarlık yaparak anlaşması.",
+    "kullanim_yeri": "Siyaset, iş görüşmeleri, ilişkiler"
+  },
+  {
+    "id": 59,
+    "ingilizce": "confident",
+    "turce": "kendine güvenen, emin",
+    "aciklama": "Kendi yeteneklerine, planlarına veya bir şeyin doğruluğuna olan inanç.",
+    "kullanim_yeri": "Sınavlar, iş görüşmeleri, sunumlar"
+  },
+  {
+    "id": 60,
+    "ingilizce": "confusing",
+    "turce": "kafa karıştırıcı",
+    "aciklama": "Anlaşılması zor, net olmayan, karmaşık.",
+    "kullanim_yeri": "Yol tarifleri, talimatlar, dilbilgisi kuralları"
+  },
+  {
+    "id": 61,
+    "ingilizce": "conscious",
+    "turce": "bilinçli, farkında",
+    "aciklama": "Bir şeyin farkında olmak, uyanık olmak veya bilinçli yapılan eylem.",
+    "kullanim_yeri": "Psikoloji, sağlık, meditasyon"
+  },
+  {
+    "id": 62,
+    "ingilizce": "considerable",
+    "turce": "oldukça büyük, hatırı sayılır",
+    "aciklama": "Büyüklük, miktar veya derece bakımından büyük, kayda değer.",
+    "kullanim_yeri": "Ekonomi, miktar belirtme, haberler"
+  },
+  {
+    "id": 63,
+    "ingilizce": "convinced",
+    "turce": "ikna olmuş, emin",
+    "aciklama": "Bir şeyin doğru olduğuna tamamen inanmak.",
+    "kullanim_yeri": "Tartışmalar, kişisel inançlar"
+  },
+  {
+    "id": 64,
+    "ingilizce": "crucial",
+    "turce": "çok önemli, hayati",
+    "aciklama": "Bir şeyin başarısı veya sonucu için son derece gerekli olan.",
+    "kullanim_yeri": "Karar anları, tıp, proje yönetimi"
+  },
+  {
+    "id": 65,
+    "ingilizce": "efficient",
+    "turce": "verimli",
+    "aciklama": "En az zaman, para veya enerji harcayarak iyi sonuç veren.",
+    "kullanim_yeri": "İş dünyası, mühendislik, zaman yönetimi"
+  },
+  {
+    "id": 66,
+    "ingilizce": "emphasize",
+    "turce": "vurgulamak",
+    "aciklama": "Bir şeyin özellikle önemli olduğunu belirtmek.",
+    "kullanim_yeri": "Sunumlar, yazılı anlatım, eğitim"
+  },
+  {
+    "id": 67,
+    "ingilizce": "ensure",
+    "turce": "garanti etmek, sağlamak",
+    "aciklama": "Bir şeyin kesinlikle olmasını veya yapılmasını sağlamak.",
+    "kullanim_yeri": "Güvenlik talimatları, kalite kontrol, sözleşmeler"
+  },
+  {
+    "id": 68,
+    "ingilizce": "expand",
+    "turce": "genişletmek, büyümek",
+    "aciklama": "Daha büyük hale gelmek veya getirmek.",
+    "kullanim_yeri": "Şirketler, bilgi dağarcığı, evren"
+  },
+  {
+    "id": 69,
+    "ingilizce": "frequent",
+    "turce": "sık, sık yapılan",
+    "aciklama": "Birçok kez olan veya yapılan.",
+    "kullanim_yeri": "Seyahat, alışkanlıklar, istatistik"
+  },
+  {
+    "id": 70,
+    "ingilizce": "guarantee",
+    "turce": "garanti, garanti etmek",
+    "aciklama": "Bir şeyin olacağına dair kesin söz vermek veya bir ürünün belirli bir süre sorunsuz çalışacağını taahhüt etmek.",
+    "kullanim_yeri": "Satış, ürün iadeleri, hizmet sektörü"
+  },
+  {
+    "id": 71,
+    "ingilizce": "highlight",
+    "turce": "vurgulamak, dikkat çekmek",
+    "aciklama": "Bir şeye özel dikkat çekmek, öne çıkarmak.",
+    "kullanim_yeri": "Haberler, raporlar, sosyal medya paylaşımları"
+  },
+  {
+    "id": 72,
+    "ingilizce": "identify",
+    "turce": "tespit etmek, belirlemek, kimliğini tespit etmek",
+    "aciklama": "Bir kişinin veya şeyin kim veya ne olduğunu bulup söylemek.",
+    "kullanim_yeri": "Polis teşhisi, bilimsel keşifler, problem çözme"
+  },
+  {
+    "id": 73,
+    "ingilizce": "illustrate",
+    "turce": "örnekle açıklamak, resimlemek",
+    "aciklama": "Bir şeyi örnekler vererek veya resimlerle daha anlaşılır kılmak.",
+    "kullanim_yeri": "Kitaplar, sunumlar, ders anlatımı"
+  },
+  {
+    "id": 74,
+    "ingilizce": "imply",
+    "turce": "ima etmek, demek istemek",
+    "aciklama": "Bir şeyi doğrudan söylemeden, dolaylı yoldan anlatmak.",
+    "kullanim_yeri": "Edebiyat, günlük konuşma (üstü kapalı anlatımlar)"
+  },
+  {
+    "id": 75,
+    "ingilizce": "inevitable",
+    "turce": "kaçınılmaz",
+    "aciklama": "Önlenemeyen, kesinlikle olacak olan.",
+    "kullanim_yeri": "Tarih, felsefe, gelecek tahminleri"
+  },
+  {
+    "id": 76,
+    "ingilizce": "interrupt",
+    "turce": "sözünü kesmek, bölmek",
+    "aciklama": "Birisi konuşurken veya bir iş yaparken araya girip durdurmak.",
+    "kullanim_yeri": "Toplantılar, günlük sohbetler, ders ortamı"
+  },
+  {
+    "id": 77,
+    "ingilizce": "involve",
+    "turce": "içermek, gerektirmek, dahil etmek",
+    "aciklama": "Bir şeyi bir parçası olarak içermek veya birini bir aktiviteye katmak.",
+    "kullanim_yeri": "İş tanımları, tarifler, projeler"
+  },
+  {
+    "id": 78,
+    "ingilizce": "isolated",
+    "turce": "izole, yalıtılmış, tek başına",
+    "aciklama": "Diğerlerinden ayrı, uzak veya tek olan.",
+    "kullanim_yeri": "Coğrafya, sosyoloji, tıp (karantina)"
+  },
+  {
+    "id": 79,
+    "ingilizce": "matter",
+    "turce": "önemli olmak, mesele",
+    "aciklama": "Bir durum olarak ele alınan konu veya bir şeyin önemli olması.",
+    "kullanim_yeri": "Günlük konuşma ('What's the matter?' - Sorun ne?)"
+  },
+  {
+    "id": 80,
+    "ingilizce": "nevertheless",
+    "turce": "buna rağmen, yine de",
+    "aciklama": "Daha önce söylenen bir şeye rağmen, onunla çelişen bir durumu ifade ederken kullanılır.",
+    "kullanim_yeri": "Akademik yazılar, resmi konuşmalar, tartışmalar"
+  },
+  {
+    "id": 81,
+    "ingilizce": "potential",
+    "turce": "potansiyel, gizil güç",
+    "aciklama": "Gelecekte gelişme veya başarı gösterme olasılığı olan.",
+    "kullanim_yeri": "İş görüşmeleri, sporcu keşfi, bilim"
+  },
+  {
+    "id": 82,
+    "ingilizce": "previous",
+    "turce": "önceki, bir önceki",
+    "aciklama": "Zamanda veya sırada hemen önce gelen.",
+    "kullanim_yeri": "İş deneyimi, önceki bölüm, geçmiş zaman"
+  },
+  {
+    "id": 83,
+    "ingilizce": "primary",
+    "turce": "birincil, ana, temel",
+    "aciklama": "En önemli, başlıca olan.",
+    "kullanim_yeri": "Eğitim (ilkokul), öncelikler, renkler"
+  },
+  {
+    "id": 84,
+    "ingilizce": "reaction",
+    "turce": "tepki, reaksiyon",
+    "aciklama": "Bir uyarana, duruma veya olaya verilen cevap.",
+    "kullanim_yeri": "Kimya, psikoloji, sosyal olaylar"
+  },
+  {
+    "id": 85,
+    "ingilizce": "recommend",
+    "turce": "tavsiye etmek",
+    "aciklama": "Bir şeyin iyi veya uygun olduğunu söylemek, önermek.",
+    "kullanim_yeri": "Restoranlar, filmler, iş referansları"
+  },
+  {
+    "id": 86,
+    "ingilizce": "reluctant",
+    "turce": "isteksiz, gönülsüz",
+    "aciklama": "Bir şeyi yapmak konusunda tereddütlü, hevessiz olmak.",
+    "kullanim_yeri": "İkna durumları, zorunluluklar"
+  },
+  {
+    "id": 87,
+    "ingilizce": "require",
+    "turce": "gerektirmek, ihtiyaç duymak",
+    "aciklama": "Bir şeyi yapmak veya bir durum için bir şeye ihtiyaç olması.",
+    "kullanim_yeri": "İş ilanları, yasal düzenlemeler, eğitim"
+  },
+  {
+    "id": 88,
+    "ingilizce": "schedule",
+    "turce": "program, takvim; planlamak",
+    "aciklama": "Belirli zamanlarda yapılacak işlerin listesi veya bir işi belirli bir zamana planlamak.",
+    "kullanim_yeri": "İş hayatı, okul ders programları, seyahat"
+  },
+  {
+    "id": 89,
+    "ingilizce": "select",
+    "turce": "seçmek",
+    "aciklama": "Bir grup içinden en uygun olanı veya en iyisini tercih etmek.",
+    "kullanim_yeri": "Alışveriş, sınavlar (seçmeli ders), işe alım"
+  },
+  {
+    "id": 90,
+    "ingilizce": "sensitive",
+    "turce": "hassas, duyarlı",
+    "aciklama": "Duyguları kolayca incinen veya bir konuda hassas olan; kolayca tepki veren (cihaz, konu).",
+    "kullanim_yeri": "Cilt bakımı, ilişkiler, gizli bilgiler"
+  },
+  {
+    "id": 91,
+    "ingilizce": "solution",
+    "turce": "çözüm",
+    "aciklama": "Bir sorunu ortadan kaldıran yol veya yöntem.",
+    "kullanim_yeri": "Problem çözme, iş dünyası, kimya"
+  },
+  {
+    "id": 92,
+    "ingilizce": "specific",
+    "turce": "belirli, özel",
+    "aciklama": "Özellikle belirtilen, genel olmayan, kendine özgü.",
+    "kullanim_yeri": "Talimatlar, akademik çalışmalar, detaylandırma"
+  },
+  {
+    "id": 93,
+    "ingilizce": "survive",
+    "turce": "hayatta kalmak, atlatmak",
+    "aciklama": "Zor bir durumdan veya kazadan canlı çıkmak, varlığını sürdürmek.",
+    "kullanim_yeri": "Doğal afetler, zorluklar, ekonomi"
+  },
+  {
+    "id": 94,
+    "ingilizce": "temporary",
+    "turce": "geçici",
+    "aciklama": "Sürekli olmayan, belli bir süre için olan.",
+    "kullanim_yeri": "İş (geçici işçi), ikamet, çözümler"
+  },
+  {
+    "id": 95,
+    "ingilizce": "transfer",
+    "turce": "aktarmak, transfer etmek",
+    "aciklama": "Bir şeyi bir yerden başka bir yere taşımak veya bir hesaptan diğerine para göndermek.",
+    "kullanim_yeri": "Banka işlemleri, ulaşım (aktarma), iş değişikliği"
+  },
+  {
+    "id": 96,
+    "ingilizce": "unique",
+    "turce": "eşsiz, benzersiz",
+    "aciklama": "Türünün tek örneği olan, başka hiçbir şeye benzemeyen.",
+    "kullanim_yeri": "Sanat, ürün tanıtımı, kişisel özellikler"
+  },
+  {
+    "id": 97,
+    "ingilizce": "urgent",
+    "turce": "acil",
+    "aciklama": "Hemen yapılması veya ilgilenilmesi gereken, ertelenemez.",
+    "kullanim_yeri": "Hastane, iş mailleri, günlük problemler"
+  },
+  {
+    "id": 98,
+    "ingilizce": "valid",
+    "turce": "geçerli, (vize) süresi geçmemiş",
+    "aciklama": "Yasal olarak kabul edilebilir, geçerliliği olan veya mantıklı (argüman).",
+    "kullanim_yeri": "Kimlik belgeleri, biletler, mantık yürütme"
+  },
+  {
+    "id": 99,
+    "ingilizce": "volunteer",
+    "turce": "gönüllü; gönüllü olmak",
+    "aciklama": "Bir işi ücret beklemeden, isteyerek yapan kimse veya böyle bir işi yapmak.",
+    "kullanim_yeri": "Sivil toplum kuruluşları, yardım faaliyetleri"
+  },
+  {
+    "id": 100,
+    "ingilizce": "witness",
+    "turce": "tanık, şahit; tanık olmak",
+    "aciklama": "Bir olayı gören ve anlatabilecek kişi veya bir olaya bizzat şahit olmak.",
+    "kullanim_yeri": "Mahkeme, kazalar, tarihi olaylar"
+  }
+]
