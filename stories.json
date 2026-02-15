@@ -1,0 +1,382 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "title": "The Lost Key",
+      "level": "B1+",
+      "content": "Sarah was in a hurry. She had an important job interview at 10 o'clock. She checked her bag: wallet, phone, resume — everything was there. But when she reached the door, she realized she couldn't find her keys. She searched everywhere: on the table, in the kitchen, even under the sofa. Her heart started to beat faster. Suddenly, she remembered that she had left them in the jacket she wore yesterday. She ran to the closet, found the keys, and rushed out. She arrived just in time for the interview.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why was Sarah in a hurry?",
+          "options": [
+            "She was meeting a friend",
+            "She had a job interview",
+            "She was going on vacation",
+            "She was late for class"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What can be inferred about Sarah's personality?",
+          "options": [
+            "She is always organized",
+            "She can be forgetful under stress",
+            "She doesn't care about being on time",
+            "She prefers to stay at home"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "The word 'resume' in the text most likely means:",
+          "options": [
+            "To continue",
+            "A summary of work experience",
+            "To start again",
+            "A type of jacket"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "How did Sarah feel when she couldn't find the keys?",
+          "options": [
+            "Relaxed",
+            "Angry",
+            "Nervous",
+            "Indifferent"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "What lesson can be learned from this story?",
+          "options": [
+            "Always check your pockets before leaving",
+            "Job interviews are stressful",
+            "Keys are easy to lose",
+            "It's important to be on time"
+          ],
+          "correctOptionIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "A Day at the Beach",
+      "level": "B1+",
+      "content": "Last Saturday, Mark and his family decided to spend the day at the beach. The weather was perfect: sunny but not too hot. They packed sandwiches, drinks, and a big umbrella. When they arrived, the beach was crowded, but they found a nice spot near the rocks. Mark's younger brother, Tom, immediately ran to the water. Mark preferred to build a sandcastle. While he was shaping the towers, he noticed a strange object buried in the sand. It was an old, rusty key. He wondered what it could open. He put it in his pocket as a souvenir. Later, they all enjoyed swimming and playing volleyball. It was a wonderful day.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was the weather like?",
+          "options": [
+            "Rainy",
+            "Cloudy",
+            "Sunny and pleasant",
+            "Very hot"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "Why did Mark's family choose a spot near the rocks?",
+          "options": [
+            "To be closer to the water",
+            "Because it was less crowded there",
+            "To build sandcastles",
+            "To find hidden treasures"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What did Mark find in the sand?",
+          "options": [
+            "A seashell",
+            "A bottle",
+            "A rusty key",
+            "A coin"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "The word 'souvenir' in the text is closest in meaning to:",
+          "options": [
+            "Gift",
+            "Memory",
+            "Treasure",
+            "Memento"
+          ],
+          "correctOptionIndex": 3
+        },
+        {
+          "id": 5,
+          "question": "What can be inferred about Tom?",
+          "options": [
+            "He is afraid of water",
+            "He is energetic and loves the sea",
+            "He prefers building sandcastles",
+            "He found the key first"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The New Job",
+      "level": "B1+",
+      "content": "Emily had been looking for a job for months. Finally, she got an offer from a marketing company. On her first day, she felt both excited and nervous. Her new boss, Mr. Anderson, introduced her to the team. Everyone seemed friendly. Her desk was next to a window with a nice view. Throughout the day, she learned how to use their internal system and attended a meeting. At lunch, a colleague named Lisa invited her to join the others in the cafeteria. They talked about their projects and hobbies. By the end of the day, Emily felt more confident. She was happy with her decision to join the company.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How did Emily feel on her first day?",
+          "options": [
+            "Only excited",
+            "Only nervous",
+            "Excited and nervous",
+            "Bored"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "What does the phrase 'throughout the day' imply?",
+          "options": [
+            "At the beginning of the day",
+            "At the end of the day",
+            "During the entire day",
+            "In the middle of the day"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "Who invited Emily to lunch?",
+          "options": [
+            "Mr. Anderson",
+            "A colleague named Lisa",
+            "The CEO",
+            "No one; she ate alone"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "What can be inferred about the company's culture?",
+          "options": [
+            "It is competitive and cold",
+            "It is friendly and welcoming",
+            "Employees work in isolation",
+            "There is no lunch break"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "The word 'confident' in the last sentence could be replaced by:",
+          "options": [
+            "Unsure",
+            "Assured",
+            "Worried",
+            "Tired"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Unexpected Visitor",
+      "level": "B1",
+      "content": "It was a rainy Tuesday evening when Anna heard a knock on the door. She wasn't expecting anyone. Her husband was working late, and the kids were at their grandparents' house. Curious, she approached the door and looked through the peephole. To her surprise, she saw an old friend from university, Mark, standing there soaking wet. She hadn't seen him in almost ten years. Anna quickly opened the door and welcomed him inside. 'Mark! What a surprise! Come in, you're completely wet,' she exclaimed. Mark explained that he was in town for a business meeting that got cancelled, and he remembered that Anna lived nearby. He decided to take a chance and see if she was home. They spent the next few hours catching up, looking at old photos, and laughing about their university days. Mark apologized for showing up unannounced, but Anna assured him it was a wonderful surprise. Before he left, they promised to stay in better touch. As Anna closed the door, she smiled, thinking how unexpected moments often turn into the best memories.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why was Anna surprised to see Mark?",
+          "options": [
+            "He was a delivery man",
+            "She hadn't seen him in years",
+            "He was angry",
+            "He brought a gift"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "Why was Mark in town?",
+          "options": [
+            "He was visiting family",
+            "He had a business meeting",
+            "He was on vacation",
+            "He was moving"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What did Mark and Anna do during the visit?",
+          "options": [
+            "Watched a movie",
+            "Talked about old times",
+            "Cooked dinner together",
+            "Went for a walk"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "The phrase 'catching up' in the text means:",
+          "options": [
+            "Running after someone",
+            "Talking about recent events in each other's lives",
+            "Cleaning the house",
+            "Playing a game"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What can be inferred about Anna's feelings at the end of the story?",
+          "options": [
+            "She was annoyed by the visit",
+            "She was happy and touched",
+            "She was indifferent",
+            "She regretted opening the door"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "A Health Scare",
+      "level": "B1",
+      "content": "David had always considered himself a healthy person. He exercised regularly and ate balanced meals. However, one morning he woke up feeling dizzy and nauseous. He tried to get out of bed, but the room was spinning. Worried, he called his wife, who was already at work. She told him to stay put and immediately drove back home. When she arrived, David's condition hadn't improved. They decided to go to the emergency room. At the hospital, doctors ran several tests — blood work, an MRI, and heart monitoring. The waiting was agonizing. David thought about all the worst-case scenarios. Finally, a doctor came in with a reassuring smile. 'Good news, Mr. Davis. Your tests are clear. You probably had a bad case of vertigo, maybe caused by an inner ear infection. It can be quite intense but is usually harmless.' David felt a wave of relief. He was given medication and advised to rest for a few days. That experience made him appreciate his health even more. He realized that sometimes our bodies send signals we shouldn't ignore, and it's always better to get checked.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What symptoms did David have?",
+          "options": [
+            "Headache and fever",
+            "Dizziness and nausea",
+            "Chest pain",
+            "Back pain"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "Why did David's wife come home?",
+          "options": [
+            "She forgot something",
+            "She was worried about him",
+            "She was sick too",
+            "She had a day off"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What was the final diagnosis?",
+          "options": [
+            "A heart problem",
+            "A brain tumor",
+            "Vertigo from an inner ear infection",
+            "Stress-related anxiety"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "How did David feel when the doctor gave the news?",
+          "options": [
+            "Still worried",
+            "Relieved and grateful",
+            "Angry",
+            "Confused"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What lesson did David learn from this experience?",
+          "options": [
+            "To ignore minor symptoms",
+            "To appreciate his health and not ignore signals",
+            "To exercise less",
+            "To avoid hospitals"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The Lost Parcel",
+      "level": "B1",
+      "content": "Linda had ordered a rare book online for her brother's birthday. It was a first edition of his favorite novel, and she had saved for months to afford it. The tracking information showed that the parcel had been delivered three days ago, but Linda hadn't received anything. She checked with the neighbors, looked around the building, and even contacted the delivery company. They insisted it was left at the correct address. Frustrated, Linda was about to give up hope when she noticed an elderly woman struggling with heavy bags at the entrance of the building. Linda rushed to help her. The woman, Mrs. Dawson, was very grateful. As they chatted, Linda mentioned the missing parcel. Mrs. Dawson's face lit up. 'Oh, dear! I think I have it! A package was left at my door by mistake. I've been meaning to ask around, but I haven't been well.' She invited Linda in and handed her the package. Linda was overjoyed. She thanked Mrs. Dawson profusely and even offered a small reward, but the old lady refused. That evening, Linda reflected on how a simple act of kindness had solved her problem. She learned that sometimes, helping others can bring unexpected solutions.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What did Linda order online?",
+          "options": [
+            "A rare book",
+            "A gift for herself",
+            "A dress",
+            "A phone"
+          ],
+          "correctOptionIndex": 0
+        },
+        {
+          "id": 2,
+          "question": "Why was Linda frustrated?",
+          "options": [
+            "The book was damaged",
+            "The parcel was marked delivered but she didn't receive it",
+            "She couldn't track the order",
+            "The delivery was late"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "How did Linda finally find her parcel?",
+          "options": [
+            "She called the delivery company again",
+            "She helped an elderly neighbor who had it",
+            "It was left at the building entrance",
+            "Her brother found it"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "What does the phrase 'profusely' in the text mean?",
+          "options": [
+            "A little",
+            "In a rude way",
+            "With great gratitude",
+            "Quietly"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "What is the main message of the story?",
+          "options": [
+            "Always track your packages",
+            "Delivery companies are unreliable",
+            "Kindness can bring unexpected rewards",
+            "Don't help strangers"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    }
+  ]
+}
