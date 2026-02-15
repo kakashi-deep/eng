@@ -445,7 +445,6 @@
       "id": 8,
       "title": "The Library Volunteer",
       "level": "B1",
-      "level": "B1",
       "content": "Maria needed to complete 20 hours of community service for her school program. She decided to volunteer at the local library. At first, she thought it would be boring — just putting books back on shelves. But on her first day, Mrs. Chen, the head librarian, showed her how the library worked. Maria learned to sort returned books, help children find stories, and even assist elderly visitors with computers. One afternoon, a little girl named Lily couldn't find a book about dolphins. Maria spent twenty minutes searching the catalog and shelves until she found it. Lily's face lit up with joy. That moment made Maria realize how meaningful her work was. By the end of the month, Maria had completed her hours, but she decided to keep volunteering on weekends. She had discovered a love for books and helping others. The library became her second home, and Mrs. Chen became a mentor who encouraged her to consider a career in education.",
       "questions": [
         {
@@ -1006,6 +1005,888 @@
             "A business opportunity"
           ],
           "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "The Mystery Letter",
+      "level": "B1",
+      "content": "One morning, while checking his mailbox, Alex found a blue envelope with no return address. Curious, he opened it and found a map of the city park with an 'X' marked near the old oak tree. There was a short note: 'Meet me at noon.' Alex was both excited and a little nervous. He decided to go. When he arrived at the park, he saw his childhood friend, Ben, who had moved away five years ago. Ben laughed and hugged him. 'I wanted to surprise you!' Ben said. They spent the afternoon catching up on old times. Alex realized that sometimes, the best surprises come in mysterious packages.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What did Alex find in the envelope?",
+          "options": [
+            "A key",
+            "A map and a note",
+            "Money",
+            "A photo"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "Where was the 'X' marked?",
+          "options": [
+            "Near the fountain",
+            "Near the entrance",
+            "Near the old oak tree",
+            "On a bench"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "Who was waiting for Alex?",
+          "options": [
+            "A stranger",
+            "His brother",
+            "His childhood friend Ben",
+            "A teacher"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "How long had Ben been away?",
+          "options": [
+            "One year",
+            "Five years",
+            "Ten years",
+            "Two months"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "How did Alex feel about the surprise?",
+          "options": [
+            "Angry",
+            "Sad",
+            "Happy",
+            "Confused"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Camping Under the Stars",
+      "level": "B1",
+      "content": "Tom and Jerry decided to go camping for the weekend. They hiked for three hours to reach a beautiful spot near a lake. However, when they tried to set up their tent, they realized they had forgotten the poles! 'What are we going to do?' asked Jerry, worried. Tom looked around and saw some sturdy branches on the ground. 'We can use these,' he suggested. It took some time and effort, but they managed to build a shelter. That night, they roasted marshmallows over a fire and looked up at the sky. Without the city lights, the stars looked brighter than ever. They realized that sometimes, improvisation makes the adventure even better.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Where did Tom and Jerry go camping?",
+          "options": [
+            "In a forest",
+            "Near a lake",
+            "On a beach",
+            "In a desert"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What did they forget to bring?",
+          "options": [
+            "Food",
+            "Water",
+            "Tent poles",
+            "Sleeping bags"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "How did they solve the problem?",
+          "options": [
+            "They went home",
+            "They slept in the car",
+            "They used branches",
+            "They found another tent"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "What did they do in the evening?",
+          "options": [
+            "Watched a movie",
+            "Roasted marshmallows",
+            "Fished",
+            "Played cards"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What made the night special?",
+          "options": [
+            "The warm weather",
+            "The silence",
+            "The bright stars",
+            "The comfortable beds"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "The Art Class",
+      "level": "B1",
+      "content": "Sophia signed up for a painting class to try something new. The assignment was to paint a bowl of fruit. Sophia tried her best, but her apples looked like red blobs and her bananas were too straight. She felt embarrassed when she looked at her neighbor's perfect work. The teacher, Mr. Rossi, walked by and stopped at her easel. 'Interesting perspective,' he said. 'It looks abstract.' Sophia smiled nervously. 'I was trying to be realistic,' she admitted. Mr. Rossi laughed kindly. 'Art isn't about perfection; it's about expression. Why not embrace the abstract style?' Encouraged, Sophia added bold colors and strange shapes. By the end of the class, her painting was unique and vibrant. She learned that mistakes can turn into a style of their own.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was the assignment in the art class?",
+          "options": [
+            "Paint a landscape",
+            "Paint a portrait",
+            "Paint a bowl of fruit",
+            "Paint an abstract picture"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "How did Sophia feel about her painting initially?",
+          "options": [
+            "Proud",
+            "Embarrassed",
+            "Indifferent",
+            "Happy"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What did Mr. Rossi suggest?",
+          "options": [
+            "Start over",
+            "Copy her neighbor",
+            "Embrace the abstract style",
+            "Quit the class"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "How did Sophia change her painting?",
+          "options": [
+            "She threw it away",
+            "She added bold colors and shapes",
+            "She made it black and white",
+            "She asked the teacher to finish it"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What lesson did Sophia learn?",
+          "options": [
+            "She is a bad artist",
+            "Realism is the only way",
+            "Mistakes can become a style",
+            "Fruit is hard to paint"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Moving Day",
+      "level": "B1",
+      "content": "Moving to a new apartment was harder than Sarah expected. Her living room was full of boxes, and she couldn't find her coffee maker. 'I marked everything!' she groaned. Her friend Mike came over to help. 'Let's unpack the kitchen first,' he suggested. As they opened a box labeled 'Books', Sarah found an old photo album she thought she had lost. They stopped to look through the pictures, laughing at old hairstyles and fashion choices. 'Maybe unpacking isn't so bad,' Sarah said. By the evening, the kitchen was organized, and the coffee maker was found — inside the 'Bathroom' box! They celebrated with a fresh cup of coffee and a pizza. Moving was stressful, but it was also a chance to rediscover forgotten memories.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was Sarah's problem?",
+          "options": [
+            "She lost her keys",
+            "She couldn't find her coffee maker",
+            "She had no boxes",
+            "She didn't want to move"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "Who helped Sarah?",
+          "options": [
+            "Her brother",
+            "Her friend Mike",
+            "Her parents",
+            "A professional mover"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What did Sarah find in the 'Books' box?",
+          "options": [
+            "A coffee maker",
+            "Money",
+            "An old photo album",
+            "Clothes"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "Where was the coffee maker actually found?",
+          "options": [
+            "In the Kitchen box",
+            "In the Bedroom box",
+            "In the Bathroom box",
+            "It was never found"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "How did they celebrate?",
+          "options": [
+            "With coffee and pizza",
+            "With champagne",
+            "By going to a restaurant",
+            "By watching a movie"
+          ],
+          "correctOptionIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "The Lost Puppy",
+      "level": "B1",
+      "content": "It was raining heavily when Jack heard a small whimpering sound coming from behind the bushes. He looked closer and saw a tiny, shivering puppy. It had no collar. Jack couldn't leave it there, so he wrapped it in his jacket and took it home. His mother was surprised but agreed to let the puppy stay in the garage for the night. The next day, Jack made posters and put them up around the neighborhood. Two days later, a phone call came. It was a little girl named Lily, crying with relief. 'That's my puppy, Max!' she said. When Lily and her father came to pick Max up, the reunion was heartwarming. Lily hugged Jack and thanked him. Jack felt a bit sad to say goodbye, but seeing Lily's happiness made it all worth it.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What did Jack find?",
+          "options": [
+            "A kitten",
+            "A wallet",
+            "A lost puppy",
+            "A bird"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "What was the weather like?",
+          "options": [
+            "Sunny",
+            "Snowing",
+            "Raining heavily",
+            "Windy"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "Where did the puppy stay the first night?",
+          "options": [
+            "In Jack's room",
+            "In the garage",
+            "Outside",
+            "In the kitchen"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "How did the owner find the puppy?",
+          "options": [
+            "Jack called the police",
+            "Lily saw Jack's posters",
+            "The puppy ran home",
+            "Jack kept the puppy"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "How did Jack feel at the end?",
+          "options": [
+            "Angry",
+            "Only happy",
+            "A bit sad but happy for Lily",
+            "Regretful"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "The Cooking Contest",
+      "level": "B1",
+      "content": "Every year, the town of Willow Creek held a cooking contest. This year, Mark decided to enter with his famous apple pie. He spent weeks perfecting the recipe. On the day of the contest, the kitchen was chaotic. Chefs were shouting, and pots were banging. Mark carefully placed his pie in the oven. But when he took it out, he realized he had forgotten the sugar! It tasted sour. He almost withdrew from the contest, but then he had an idea. He quickly whipped up a sweet caramel sauce and poured it over the pie. The judges tasted it and paused. 'Unexpectedly tart, but perfectly balanced by the sweet sauce,' one judge said. Mark won second place! He learned that quick thinking can save even a disaster.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What did Mark make for the contest?",
+          "options": [
+            "Chocolate cake",
+            "Apple pie",
+            "Pumpkin soup",
+            "Roast chicken"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What mistake did Mark make?",
+          "options": [
+            "He burned the pie",
+            "He dropped the pie",
+            "He forgot the sugar",
+            "He used salt instead of sugar"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "How did he fix the problem?",
+          "options": [
+            "He baked a new one",
+            "He added caramel sauce",
+            "He bought a pie",
+            "He served it sour"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "What place did Mark win?",
+          "options": [
+            "First place",
+            "Second place",
+            "Third place",
+            "Last place"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the lesson of the story?",
+          "options": [
+            "Always follow the recipe",
+            "Contests are stressful",
+            "Quick thinking can save a situation",
+            "Luck is everything"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "The Delayed Flight",
+      "level": "B1",
+      "content": "Maria was excited to go to Paris, but her flight was delayed by four hours due to a storm. She sat in the waiting area, bored and frustrated. Next to her, an elderly man was reading a book about history. They started talking. He told her he was a retired professor going to visit his grandchildren. He shared fascinating stories about the French Revolution and the best places to visit in Paris that weren't in guidebooks. The four hours passed quickly. When they finally boarded the plane, Maria thanked him. 'Before, I was angry about the delay,' she said. 'But now, I'm glad I had the chance to meet you.' She realized that sometimes, waiting gives you time for unexpected connections.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why was Maria's flight delayed?",
+          "options": [
+            "Engine trouble",
+            "A storm",
+            "Crew shortage",
+            "Security issues"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "Who did she talk to?",
+          "options": [
+            "A pilot",
+            "A young student",
+            "A retired professor",
+            "A flight attendant"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "What did they talk about?",
+          "options": [
+            "The weather",
+            "History and Paris tips",
+            "Politics",
+            "Food"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "How long was the delay?",
+          "options": [
+            "One hour",
+            "Two hours",
+            "Four hours",
+            "Overnight"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "How did Maria feel about the delay in the end?",
+          "options": [
+            "Still angry",
+            "Glad she met the professor",
+            "Tired",
+            "Indifferent"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "The Secret Garden",
+      "level": "B1",
+      "content": "Behind Emily's new house was a high stone wall with a locked wooden door. The real estate agent said the key was lost long ago. But Emily was curious. She searched through old drawers in the house and found a rusty iron key. One sunny afternoon, she tried it in the lock. It clicked! The door creaked open to reveal a garden that had grown wild. Vines covered the statues, and weeds were everywhere. But in the center, beautiful roses were still blooming. Emily decided to restore it. She spent her summer pulling weeds and planting flowers. It became her sanctuary. One day, her neighbor saw it and said, 'This garden used to be the pride of the neighborhood.' Emily smiled, happy to bring beauty back to life.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was behind the stone wall?",
+          "options": [
+            "Another house",
+            "A secret garden",
+            "A forest",
+            "A swimming pool"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "How did Emily open the door?",
+          "options": [
+            "She broke it down",
+            "She found a key in a drawer",
+            "She climbed over",
+            "The neighbor opened it"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What condition was the garden in?",
+          "options": [
+            "Perfectly kept",
+            "Empty",
+            "Overgrown and wild",
+            "Full of vegetables"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "What did Emily do?",
+          "options": [
+            "She locked the door again",
+            "She restored the garden",
+            "She sold the house",
+            "She hired a gardener"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What does 'sanctuary' mean in this context?",
+          "options": [
+            "A place of safety and peace",
+            "A zoo",
+            "A work office",
+            "A storage room"
+          ],
+          "correctOptionIndex": 0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "First Driving Lesson",
+      "level": "B1",
+      "content": "David turned 18 and was finally ready for his first driving lesson. He sat in the driver's seat, gripping the steering wheel tightly. His instructor, Mr. Brown, was calm and patient. 'Relax, David,' he said. 'Just take it slow.' David started the car but accidentally pressed the gas pedal too hard. The car jerked forward! David slammed on the brakes. His heart was pounding. 'It's okay,' Mr. Brown said gently. 'Mistakes happen. Try again, gently.' David took a deep breath. The second time, he moved smoothly. They drove around the empty parking lot for an hour. By the end, David felt much more confident. He realized that driving, like anything new, requires patience and practice.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How did David feel at the beginning?",
+          "options": [
+            "Confident",
+            "Bored",
+            "Nervous",
+            "Sleepy"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "What happened when David first started the car?",
+          "options": [
+            "It didn't start",
+            "It jerked forward",
+            "It went backward",
+            "The engine died"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "How did Mr. Brown react to the mistake?",
+          "options": [
+            "He shouted",
+            "He laughed",
+            "He was calm and supportive",
+            "He canceled the lesson"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 4,
+          "question": "Where did they practice driving?",
+          "options": [
+            "On the highway",
+            "In busy traffic",
+            "In an empty parking lot",
+            "In the mountains"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "What did David realize?",
+          "options": [
+            "Driving is too hard",
+            "He needs more practice and patience",
+            "He doesn't want to drive",
+            "Instructors are scary"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "The School Play",
+      "level": "B1",
+      "content": "Julia had the main role in the school play. She had practiced her lines for weeks. On the opening night, the auditorium was full. The lights went down, and the play began. Everything was going perfectly until the second act. Suddenly, Julia's mind went blank. She couldn't remember her next line! The audience was silent. Julia felt panic rising. Then she looked at her friend Mark, who was playing her brother. He improvised a question: 'Are you thinking about the letter?' Julia instantly remembered! 'Yes, the letter!' she replied, and continued with her speech. The audience didn't notice a thing. Afterward, the drama teacher praised them for their professionalism. Julia learned that even when things go wrong, staying calm can save the show.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What role did Julia have?",
+          "options": [
+            "A minor role",
+            "The main role",
+            "She was the director",
+            "She was in the audience"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What happened in the second act?",
+          "options": [
+            "The lights went out",
+            "Julia forgot her lines",
+            "Mark fell down",
+            "The audience left"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "How did Mark help?",
+          "options": [
+            "He whispered the line",
+            "He improvised a question to prompt her",
+            "He stopped the play",
+            "He walked off stage"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "Did the audience notice the mistake?",
+          "options": [
+            "Yes, they laughed",
+            "No, they didn't notice",
+            "Yes, they booed",
+            "Some did"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What was the teacher's reaction?",
+          "options": [
+            "She was angry",
+            "She praised them",
+            "She cried",
+            "She fired them"
+          ],
+          "correctOptionIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "The Surprise Party",
+      "level": "B1",
+      "content": "Organizing a surprise party for her sister, Lisa, was a big challenge for Karen. She had to invite twenty guests, order a cake, and decorate the house, all without Lisa knowing. The hardest part was keeping the secret. Several times, Karen almost said something by accident. On Saturday evening, Lisa thought they were just having a quiet dinner. When she opened the door, everyone shouted 'Surprise!' Lisa was shocked and then burst into tears of joy. 'I had no idea!' she exclaimed. They danced, ate cake, and took photos all night. Karen was exhausted but happy. Seeing her sister so happy made all the stress and secrets worthwhile.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who was the party for?",
+          "options": [
+            "Karen",
+            "Lisa",
+            "Their mother",
+            "A friend"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What was the hardest part for Karen?",
+          "options": [
+            "Ordering the cake",
+            "Cleaning the house",
+            "Keeping the secret",
+            "Inviting guests"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "What did Lisa think they were doing that evening?",
+          "options": [
+            "Going to a movie",
+            "Having a quiet dinner",
+            "Going to a concert",
+            "Working late"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "How did Lisa react?",
+          "options": [
+            "She was angry",
+            "She cried tears of joy",
+            "She ran away",
+            "She wasn't surprised"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "How did Karen feel at the end?",
+          "options": [
+            "Angry",
+            "Sad",
+            "Exhausted but happy",
+            "Disappointed"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "The Marathon",
+      "level": "B1",
+      "content": "Running a marathon had always been John's dream. He trained for six months, running early in the morning before work. On the day of the race, thousands of runners gathered at the starting line. The energy was electric. The first half of the race went well, but by kilometer 30, John's legs began to hurt. He wanted to stop. Then, he saw his wife and kids cheering on the sidelines holding a sign: 'Go Dad Go!' That gave him a burst of energy. He kept running, focusing on one step at a time. Crossing the finish line was the best feeling in the world. He was tired and sore, but he wore his medal with pride. He proved to himself that with hard work, he could achieve his goals.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How long did John train?",
+          "options": [
+            "Two weeks",
+            "One month",
+            "Six months",
+            "One year"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 2,
+          "question": "When did John start to struggle?",
+          "options": [
+            "At the beginning",
+            "At kilometer 10",
+            "At kilometer 30",
+            "He never struggled"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 3,
+          "question": "What motivated him to keep going?",
+          "options": [
+            "A drink of water",
+            "Seeing his family cheering",
+            "Seeing the finish line",
+            "Another runner"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "How did he feel crossing the finish line?",
+          "options": [
+            "Disappointed",
+            "Angry",
+            "Proud and happy",
+            "Bored"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "What did John prove to himself?",
+          "options": [
+            "Marathons are easy",
+            "He shouldn't run again",
+            "Hard work leads to achieving goals",
+            "He is faster than everyone"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "The Recycling Project",
+      "level": "B1",
+      "content": "Mr. Green noticed that there was a lot of litter in the local park. He decided to start a recycling project at the local school. He asked the principal for permission, and she agreed. Mr. Green spoke to the students about the importance of protecting the environment. They formed a 'Green Team'. Every Friday afternoon, they put on gloves and picked up plastic bottles, cans, and paper from the park. They also set up recycling bins in the school. After a few months, the park was cleaner, and the students were proud of their work. The mayor even gave them an award. Mr. Green showed everyone that small actions can make a big difference in the community.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What problem did Mr. Green notice?",
+          "options": [
+            "The school was dirty",
+            "The park had a lot of litter",
+            "The trees were dying",
+            "There was too much noise"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "Who did Mr. Green involve in his project?",
+          "options": [
+            "The police",
+            "The students",
+            "The shop owners",
+            "The parents ONLY"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "When did the 'Green Team' work?",
+          "options": [
+            "Every morning",
+            "Every Friday afternoon",
+            "On weekends",
+            "During holidays"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "What recognition did they receive?",
+          "options": [
+            "Money",
+            "A holiday",
+            "An award from the mayor",
+            "Nothing"
+          ],
+          "correctOptionIndex": 2
+        },
+        {
+          "id": 5,
+          "question": "What is the main theme of the story?",
+          "options": [
+            "School is important",
+            "Recycling is difficult",
+            "Small actions can make a big difference",
+            "Parks are for playing"
+          ],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "The Old Diary",
+      "level": "B1",
+      "content": "While helping her parents move, Alice found a leather-bound book in a dusty box. It was her great-grandfather's diary from 1920. She sat on the floor and began to read. He wrote about his travels across the ocean on a ship, his first job in a big city, and how he met her great-grandmother. The stories were full of adventure and courage. Alice felt like she was traveling back in time. She read about struggles and joys that were different but also similar to her own. That night, she asked her parents more about him. Reading the diary gave her a new sense of connection to her family history. She decided to start her own diary, to leave her stories for future generations.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What did Alice find?",
+          "options": [
+            "A map",
+            "Her great-grandfather's diary",
+            "A photo album",
+            "Money"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 2,
+          "question": "What year was the diary from?",
+          "options": [
+            "1950",
+            "1920",
+            "1800",
+            "2000"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 3,
+          "question": "What did her great-grandfather write about?",
+          "options": [
+            "His pets",
+            "His travels and life experiences",
+            "Recipes",
+            "Politics"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 4,
+          "question": "How did reading the diary make Alice feel?",
+          "options": [
+            "Bored",
+            "Connected to her family history",
+            "Sad",
+            "Confused"
+          ],
+          "correctOptionIndex": 1
+        },
+        {
+          "id": 5,
+          "question": "What did Alice decide to do?",
+          "options": [
+            "Throw the diary away",
+            "Sell the diary",
+            "Start her own diary",
+            "Write a book"
+          ],
+          "correctOptionIndex": 2
         }
       ]
     }
